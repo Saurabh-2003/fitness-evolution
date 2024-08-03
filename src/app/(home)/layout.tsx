@@ -3,7 +3,6 @@ import NavigationBar from "../_blocks/navigation-bar";
 import { auth } from "@/core/auth/auth";
 import { db } from "@/core/client/client";
 import HeaderBar from "../_blocks/header-bar";
-import BreadCrumbs from "@/components/common/breadcrumbs";
 import { redirect } from "next/navigation";
 
 const Layout = async ({ children }: { children: React.ReactNode }) => {

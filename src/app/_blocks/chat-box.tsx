@@ -8,7 +8,6 @@ import { useEffect, useRef, useState } from "react";
 import { getSession } from "next-auth/react";
 import { useSocket } from "@/core/providers/socket-provider";
 import { getconversation } from "./getconversation";
-import { toast } from "sonner";
 
 type Message = {
   id: string;
