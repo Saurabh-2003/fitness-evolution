@@ -1,0 +1,25 @@
+export const language = {
+  USER_MANAGEMENT: "Users Management",
+  USER_MANAGEMENT_DESC: " View & manage users, Change details etc.",
+  SIGN_WITH_GOOGLE: "Sign in with Google",
+  SIGNING: "Signing in...",
+  LOGOUT_NOW: "Sign Out Now",
+  DASHBOARD: "Dashboard",
+  HOME: "Home",
+  ADMIN: "Admin",
+  CALENDAR: "Calendar",
+  USERS: "Users",
+  MESSAGES: "Messages",
+
+  TASKTODO: "Task To-Do",
+  FITNESS_EVOLUTION: "Fitness Evolution",
+  SIGN_IN_ACCOUNT: "Sign in Your Account",
+  SIGN_IN_P: " We Prefer Password less Sign In / Sign Up",
+
+  TERM_PARA: " By clicking continue, you agree to our",
+  TERMS_OF_SERVICE: "Terms of Service",
+  AND: "and",
+  PRIVACY_POLICY: "Privacy Policy",
+  NAME: "Name",
+  EMAIL: "Email",
+};
